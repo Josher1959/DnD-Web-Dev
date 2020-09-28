@@ -1,0 +1,19 @@
+.left_heading {
+	color: rgb;
+	position: relative;
+	align-content: center;
+	left: 50%;
+}
+.right_heading{
+	color: darkgreen;
+	position: relative;
+	algin-content: center;
+	right: 50%;
+}
+p {
+	color:rgb;
+	width: 200px;
+}
+body {
+	background-color: red;
+}
